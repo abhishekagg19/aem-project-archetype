@@ -270,6 +270,7 @@
       <directory>dispatcher</directory>
       <includes>
         <include>assembly.xml</include>
+        <include>README.md</include>
       </includes>
     </fileSet>
   </fileSets>
